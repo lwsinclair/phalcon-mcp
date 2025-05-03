@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/xindong888999-phalcon-mcp-badge.png)](https://mseep.ai/app/xindong888999-phalcon-mcp)
+
 # Phalcon MCP Server
 
 一个用于执行 Phalcon 5.0.x 框架命令的 Model Context Protocol (MCP) 服务器。该服务器允许 AI 助手创建和管理 Phalcon 项目、控制器、模型等。
